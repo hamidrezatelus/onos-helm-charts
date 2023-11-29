@@ -5,7 +5,7 @@
 apiVersion: v2
 name: stratum-simulator
 description: Stratum Simulator
-kubeVersion: ">=1.15.0"
+#kubeVersion: ">=1.15.0"
 type: application
 version: 0.0.3
 appVersion: v0.1.0

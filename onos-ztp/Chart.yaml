@@ -5,7 +5,7 @@
 apiVersion: v2
 name: onos-ztp
 description: ONOS Zero Touch Provisioning Subsystem
-kubeVersion: ">=1.17.0"
+#kubeVersion: ">=1.17.0"
 type: application
 version: 0.0.5
 appVersion: v0.6.0
